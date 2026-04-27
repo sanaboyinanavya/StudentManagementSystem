@@ -31,7 +31,7 @@ It helps to store and manage student records digitally instead of maintaining th
 - How real-time applications interact with databases
 
   
-  ## Recent Improvements
+## Recent Improvements
 - Added input validation for user inputs
 - Improved console output formatting
 - Refactored DAO layer for better code structure
